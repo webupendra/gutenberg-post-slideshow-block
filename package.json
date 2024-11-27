@@ -1,7 +1,7 @@
 {
 	"name": "gutenberg-post-slider-block",
 	"version": "2.0.0",
-	"description": "A truly WYSIWYG, responsive and dynamic related post carousel slider Gutenberg block",
+	"description": "A responsive and dynamic related post carousel slider Gutenberg block",
 	"author": "Thong Truong",
 	"license": "GPL-2.0-or-later",
 	"main": "build/index.js",
