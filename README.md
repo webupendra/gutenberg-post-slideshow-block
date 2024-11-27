@@ -18,6 +18,7 @@ This block picks the posts that have the same category/categories of the current
 To insert and use the block, inside the post editor, underneath the main post content (or any position you wish), you should see the block called 'Post Slider Block'. Choose and insert it to the post editor.
 
 Here are the controls that you can customize and edit:
+
 ✅ Display controls:
     - Toggle on/off featured image for each slide.
     - Toggle on/off category badge for each slide.
@@ -26,10 +27,13 @@ Here are the controls that you can customize and edit:
     - Display slide items in ASC/DESC order.
     - Number of total posts to display.
     - Number of posts per slide.
+
 ✅ Responsive controls (desktop, tablet, mobile).
+
 ✅ Dimension controls:
     - Carousel padding/margin
     - Slide item padding/margin
+    
 ✅ Style controls:
 
     - Slide item border control
