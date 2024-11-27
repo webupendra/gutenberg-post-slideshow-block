@@ -1,6 +1,7 @@
 # gutenberg-post-slider-block
 
 === Gutenberg Post Slider Block ===
+
 Contributors:      upenwp12
 Tags:              block, carousel, slider, post slider, post carousel slider, post slider block, post carousel slider block, dynamic post slider block, dynamic post carousel slider block
 Tested up to:      6.2
