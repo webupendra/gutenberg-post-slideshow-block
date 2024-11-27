@@ -20,6 +20,7 @@ To insert and use the block, inside the post editor, underneath the main post co
 Here are the controls that you can customize and edit:
 
 ✅ Display controls:
+
     - Toggle on/off featured image for each slide.
     - Toggle on/off category badge for each slide.
     - Toggle on/off meta info(author, published date) for each slide.
