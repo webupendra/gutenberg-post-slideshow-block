@@ -1,0 +1,57 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-postslider-gutenberg-post-slider-block {
+	color: #222;
+	padding: 2px;
+
+	.slick-slide {
+		height: auto;
+	}
+
+	.related-post-slider-item {
+		.featured {
+			width: 100%;
+			height: auto;
+			object-fit: cover;
+		}
+
+		.terms,
+		.title {
+			margin: 10px 0;
+		}
+
+		.meta {
+			font-size: 14px;
+		}
+
+		a {
+			text-decoration: none;
+		}
+	}
+}
+
+/* Change Slick slider arrows color */
+.slick-prev,
+.slick-next {
+	color: transparent;
+	border: transparent;
+	outline: transparent;
+	background: transparent;
+	&:hover,
+	&:focus {
+		color: transparent;
+		background: transparent;
+	}
+	&::before {
+		color: black;
+	}
+}
+
+/* Responsive controls panel row */
+.components-panel__row.responsive-breakpoint {
+	justify-content: flex-start;
+}
