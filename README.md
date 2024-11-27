@@ -31,9 +31,10 @@ Here are the controls that you can customize and edit:
 ✅ Responsive controls (desktop, tablet, mobile).
 
 ✅ Dimension controls:
+
     - Carousel padding/margin
     - Slide item padding/margin
-    
+
 ✅ Style controls:
 
     - Slide item border control
